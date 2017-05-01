@@ -1,0 +1,63 @@
+body
+{
+	background: grey;
+	color: white;
+
+}
+
+a
+{
+	color: white;
+}
+
+img
+{
+	alignment-baseline:  center;
+}
+
+
+header, footer
+{
+	background: silver;
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+header h1
+{
+	margin-left: 25%;
+	justify-content: center;
+}
+
+
+header div
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+#page, section
+{
+	display: flex ;
+	justify-content: space-between;
+}
+
+
+aside
+{
+	width: 20%;
+}
+
+nav
+{
+	order: 2;
+	width: 40%
+}
+
+
+article
+{
+	width: 80% ;
+}

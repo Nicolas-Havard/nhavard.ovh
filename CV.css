@@ -1,0 +1,20 @@
+body 
+{
+	display : flex;
+	display: inline;
+	background: grey;
+	color: white;
+	margin-left: 25% ;
+
+}
+
+
+.para
+{
+	background: white;
+	color: grey;
+	width: 42% ;
+	margin-left: 25%;
+	padding: 25px 5px 25px 5px ;
+	border-width: 5px ;
+}
