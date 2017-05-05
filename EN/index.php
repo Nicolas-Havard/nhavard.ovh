@@ -1,6 +1,6 @@
 <!-- Page d'accueil du site personnel de Nicolas Havard -->
 <!--                Langue française                    -->
-<!--     Dernière mise à jour : le 19/04/2017           -->
+<!-- Dernière mise à jour : le 26/03/2017 à 20h30       -->
 
 
 <!DOCTYPE html>
@@ -9,38 +9,55 @@
     <head>
         <meta charset="utf-8" />		
         <link rel="stylesheet" href="index.css" />
-        <title>nhavard | Bienvenue</title>										
+        <title>nhavard | Welcome</title>										
     </head>
 
 
     <body>
-        <?php
-            include 'header.php';
-        ?>
+        <header>											
+            <h1>nhavard.ovh</h1>	
+            <div class='button'>
+                <A HREF="index.html"><em>Home</em></A><BR />
+                <!--A HREF=""--><em>Cloud </em><!--/A--> <BR />
+                <!--A HREF=""--><em>Mail </em><!--/A--> <BR />
+                <!--A HREF=""--><em>Forum </em><!--/A--> <BR />
+            </div>
+            <div class="language">
+                <A HREF="index.php><img src="../flags/UK_flag.jpg" alt="English" title="See the website in English" width="24" height="16"></A>
+                <A HREF="../index.php"><img src="../flags/FR_flag.png" alt="Français" title="Voir le sie en français" width="24" height=16"></A>
+
+            										
+        </header>
         
-        <div class="page">
-        
-            <?php
-                include 'nav.php';
-            ?>
+        <div id="page">
+        <nav>				
+            <H1>Some links !</H1>
+            <ul>
+                <LI><A HREF="index.html"><em>Home</em></A></LI>
+                <LI><A HREF="CV.html"><em>CV (not available in english)</em></A></LI>  
+                <LI><!--A HREF=""--><em>Cloud (it's comming !)</em><!--/A--></LI>
+                <LI><!--A HREF=""--><em>Mail (soon)</em><!--/A--></LI>
+                <LI><!--A HREF=""--><em>Forum (soon)</em><!--/A--></LI>
+            </ul>
+        </nav>
         
 
         <section>											
             <aside>												
                 <H1>Havard Nicolas</H1>											
-                <img src=photo_CV.jpg alt="Ma photo !" title="Je ressemble à ça">	
+                <img src=../photo_CV.jpg alt="My photo !" title="Hey">	
 
 
-                <H2>Ma Formation</H2>
+                <H2>Education</H2>
                 <p>
                     <ul>
                         <li>
-                        <strong>2016-2019 : Diplôme d'ingénieur IMA (Informatique, Microélectronique et Automatique)</strong> 
+                        <strong>2016-2019 : IMA Engineering Diploma (IT,  Microelectronics &  Automatics)</strong> 
                         <BR /><A HREF="http://www.polytech-lille.fr/ecole-d-ingenieurs.html#.WLFXnYWcGCo">Polytech</A>, Lille (59)
                         </li>           
                         <li>
-                        <strong>2014-2016 : Classes préparatoires CPGE MPSI/MP</strong> 
-                        <BR /><A HREF="http://dailly.lyc.ac-amiens.fr/site/">Lycée Pierre d'Ailly</A>, Compiègne (60)
+                        <strong>2014-2016 : Preparatory class Maths and Physics</strong> 
+                        <BR /><A HREF="http://dailly.lyc.ac-amiens.fr/site/">College Pierre d'Ailly</A>, Compiègne (60)
                         </li>
                         <li>
                         <strong>2011-2014 : Diplôme du baccalauréat scientifique, mention Très Bien</strong> 
@@ -96,21 +113,20 @@
 
             </aside>
             <article>                						
-                <h1>Bienvenue !</h1>
+                <h1>Welcome !</h1>
        
-                <p style="text-indent:2em">
-                    Bonjour et bienvenue sur mon site. Je m'appelle Nicolas Havard, mais d'autres me connaissent aussi sous le pseudonyme Shuli. 
+                <p>
+                    Hello, and welcome on my website ! My name is Nicolas 'Shuli' Havard. 
                     <BR />
-                    Je suis actuellement étudiant en première année du cycle ingénieur à <A HREF="http://www.polytech-lille.fr/" >Polytech'Lille</A>, dans la filière 
-                    <A HREF="http://www.polytech-lille.fr/informatique-microelectronique-automatique-p118.html" >IMA</A> (Informatique, Microélétronique et Automatique).
-                    Durant mon temps libre, j'aime appronfondir mes connaissances sur l'informatique, l'électronique et la domotique. C'est dans ce but que j'ai créé ce site : me permettre de comprendre comment fonctionne un site,
-                    mais aussi mettre au point des applications web exploitant des systèmes comme des Raspberry par exemple.
+                    I am a french student at the Engineering graduate school <A HREF="http://www.polytech-lille.fr/" >Polytech'Lille</A> at the University of Lille, in  
+                    <A HREF="http://www.polytech-lille.fr/informatique-microelectronique-automatique-p118.html" >IMA speciality</A> (IT, Microelectronic & Automatic).
+                    On my free time, I like to learn  computer and electronics sciences. It's to improve my knowledges in web and networks I have created this website : it permits me to know how works a website, and to experiment web applications like cloud or webmail.
                     <BR />
-                    Vous pouvez de plus consulter <A HREF="CV.html">mon CV</A> si vous le souhaitez.
+                    You can look <A HREF="CV.html">my CV</A> if you want.
                 </p>
 
-                <p style="text-indent:2em">
-                    Pour me contacter, vous pouvez m'envoyer un e-mail à <A HREF="mailto:nicolashavard.02@hotmail.fr" >mon adresse mail</A> ou bien consulter les différents sites suivants :
+                <p>
+                    And if it's not enough, you can join me at <A HREF="mailto:nicolashavard.02@hotmail.fr" >this e-mail adress</A> or click on the following sites :
                     <BR />
                     <ul>
                         <li><A HREF="https://www.facebook.com/nicolas.shuli.havard" >Facebook</A></li>
@@ -124,9 +140,12 @@
         </section>
         </div>
         
-        <?php
-            include 'footer.php';
-        ?>
-
+        
+        <footer>											
+            <A HREF="index.html"><em>Home</em></A>
+            <a href="mailto:nicolashavard.02@hotmail.fr">Contact me by mail !</a>
+            <A HREF="">Contact</A>
+        </footer>
+        
     </body>
 </html>

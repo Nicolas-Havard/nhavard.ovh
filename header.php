@@ -7,8 +7,8 @@
         <!--A HREF=""--><!--/A--> <BR />
     </div>
     <div class="language">
-        <img src="flags/UK_flag.jpg" alt="English" title="See the website in English">
-        <img src="flags/FR_flag.jpg" alt="Français" title="Voir le sie en français">
+        <A HREF="http://nhavard.ovh/EN"><img src="flags/UK_flag.png" alt="English" title="See the website in English" height='16' width='24'></A>
+        <A HREF="http://nhavard.ovh"><img src="flags/FR_flag.png" alt="Français" title="Voir le sie en français" height='16' width='24'></A>
     </div>
             										
 </header>
