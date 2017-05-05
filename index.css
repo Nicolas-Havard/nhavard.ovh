@@ -1,6 +1,6 @@
 body
 {
-	background: grey;
+	background: #303030;
 	color: white;
 
 }
@@ -18,7 +18,7 @@ img
 
 header, footer
 {
-	background: silver;
+	background: #202020;
 	text-align: center;
 	display: flex;
 	justify-content: space-around;
@@ -38,7 +38,7 @@ header div
 	justify-content: space-between;
 }
 
-#page, section
+.page, section
 {
 	display: flex ;
 	justify-content: space-between;
@@ -47,17 +47,18 @@ header div
 
 aside
 {
-	width: 20%;
+	width: 30%;
+	background: #202020;
 }
 
 nav
 {
 	order: 2;
-	width: 40%
+	width: 50%
 }
 
 
 article
 {
-	width: 80% ;
+	width: 60% ;
 }
