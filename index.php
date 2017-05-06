@@ -14,32 +14,15 @@
 
 
     <body>
-        <header>											
-            <h1>nhavard.ovh</h1>	
-            <div class='button'>
-                <A HREF="home.html"><em>Accueil</em></A><BR />
-                <!--A HREF=""--><em>Cloud </em><!--/A--> <BR />
-                <!--A HREF=""--><em>Mail </em><!--/A--> <BR />
-                <!--A HREF=""--><em>Forum </em><!--/A--> <BR />
-            </div>
-            <div class="language">
-                <img src="flags/UK_flag.png" alt="English" title="See the website in English">
-                <img src="./flags/FR_flag.png" alt="Français" title="Voir le sie en français">
-
-            										
-        </header>
+        <?php
+            include 'header.php';
+        ?>
         
-        <div id="page">
-        <nav>				
-            <H1>Quelques liens :</H1>
-            <ul>
-                <LI><A HREF="home.html"><em>Accueil</em></A></LI>
-                <LI><A HREF="CV.html"><em>CV</em></A></LI>  
-                <LI><!--A HREF=""--><em>Cloud (en cours)</em><!--/A--></LI>
-                <LI><!--A HREF=""--><em>Mail (en projet)</em><!--/A--></LI>
-                <LI><!--A HREF=""--><em>Forum (en projet)</em><!--/A--></LI>
-            </ul>
-        </nav>
+        <div class="page">
+        
+            <?php
+                include 'nav.php';
+            ?>
         
 
         <section>											
@@ -115,7 +98,7 @@
             <article>                						
                 <h1>Bienvenue !</h1>
        
-                <p>
+                <p style="text-indent:2em">
                     Bonjour et bienvenue sur mon site. Je m'appelle Nicolas Havard, mais d'autres me connaissent aussi sous le pseudonyme Shuli. 
                     <BR />
                     Je suis actuellement étudiant en première année du cycle ingénieur à <A HREF="http://www.polytech-lille.fr/" >Polytech'Lille</A>, dans la filière 
@@ -126,7 +109,7 @@
                     Vous pouvez de plus consulter <A HREF="CV.html">mon CV</A> si vous le souhaitez.
                 </p>
 
-                <p>
+                <p style="text-indent:2em">
                     Pour me contacter, vous pouvez m'envoyer un e-mail à <A HREF="mailto:nicolashavard.02@hotmail.fr" >mon adresse mail</A> ou bien consulter les différents sites suivants :
                     <BR />
                     <ul>
@@ -141,12 +124,9 @@
         </section>
         </div>
         
-        
-        <footer>											
-            <A HREF="home.html"><em>Accueil</em></A>
-            <a href="mailto:nicolashavard.02@hotmail.fr">Me contacter par mail !</a>
-            <A HREF="">Me contacter</A>
-        </footer>
-        
+        <?php
+            include 'footer.php';
+        ?>
+
     </body>
 </html>
