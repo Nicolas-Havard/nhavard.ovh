@@ -6,6 +6,14 @@ body
 
 }
 
+
+aside
+{
+	width: 30%;
+	background: #202020;
+}
+
+
 a
 {
 	color: white;
@@ -34,6 +42,12 @@ header div
 	justify-content: space-between;
 }
 
+footer
+{
+	position: absolute;
+	bottom: 0;
+}
+
 .page, section
 {
 	display: flex ;
@@ -42,11 +56,6 @@ header div
 }
 
 
-aside
-{
-	width: 30%;
-	background: #202020;
-}
 
 nav
 {
