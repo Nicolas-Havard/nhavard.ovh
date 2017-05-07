@@ -3,6 +3,7 @@ body
 	background: #303030;
 	color: white;
 
+
 }
 
 a
@@ -10,16 +11,11 @@ a
 	color: white;
 }
 
-img
-{
-	alignment-baseline:  center;
-}
 
 
 header, footer
 {
 	background: #202020;
-	text-align: center;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
@@ -42,6 +38,7 @@ header div
 {
 	display: flex ;
 	justify-content: space-between;
+
 }
 
 
@@ -61,4 +58,16 @@ nav
 article
 {
 	width: 60% ;
+	text-align: justify;
+}
+
+p 
+{
+	text-indent: 2em ;
+	vertical-align: middle;
+}
+
+img
+{
+	vertical-align: middle;
 }
