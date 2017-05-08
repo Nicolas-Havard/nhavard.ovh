@@ -2,7 +2,7 @@
     <div class="bloc1">
     	Site :
         <ul>
-       		<li><A HREF="http://nhavard.ovh"><em>Accueil</em></A></li>
+       		<li><A HREF="http://nhavard.ovh/EN"><em>Home</em></A></li>
     		<li><A HREF="http://cloud.nhavard.ovh"><em>Cloud</em></A></li>
     </div>
     <div class="bloc2">
@@ -19,9 +19,9 @@
     <div class="bloc3">
         Autre :
         <ul>
-            <li><A href="mailto:nicolashavard.02@hotmail.fr">M'envoyer un e-mail</A></li>
-            <li><A HREF="">Me contacter</A></li>
-            <li><A HREF="">Mentions légales</A></li>
+            <li><A href="mailto:nicolashavard.02@hotmail.fr">Send me an e-mail</A></li>
+            <li><A HREF="">Contact</A></li>
+            <li><A HREF="">Legal Notice</A></li>
         </ul>
     </div>
 

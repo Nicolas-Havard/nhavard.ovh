@@ -3,12 +3,27 @@
 <html>
 <head>
 	<META CHARSET="UTF-8" />
-	<title>nhavard | CV</title>
-	<link rel="stylesheet" href="CV.css" />
+	<title>nhavard | Mon Parcours</title>
+	<link rel="stylesheet" href="index.css" />
 </head>
 
 
 <body>
+
+	<?php
+	include "struct/header.php";
+	?>
+	<article>
+		<?php
+		include "CV.html";
+		?>
+	</article>
+	<?php
+	include "struct/nav.php";
+	include "struct/footer.php";
+	?>
+
+
 	<H1>Nicolas Havard</H1>
 	<p>
 		Etudiant en première année du cycle ingénieur IMA de Polytech' Lille
