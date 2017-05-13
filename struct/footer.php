@@ -8,11 +8,11 @@
     <div class="bloc2">
         Moi :
         <ul>
-            <li><A HREF="https://www.facebook.com/nicolas.shuli.havard" ><img src="images/fb.png" onmouseover="this.src='images/fb_color.png';" onmousein="this.src='images/fb_color.png';" onmouseout="this.src='images/fb.png';" width="50" height="50" />Facebook</A></li>
-            <li><A HREF="https://twitter.com/NicolasHavard" ><img src="images/twitter.png" onmouseover="this.src='images/twitter_color.png';" onmousein="this.src='images/twitter_color.png';" onmouseout="this.src='images/twitter.png';" width="50" height="50" />Twitter</A></li>
-            <li><A HREF="https://www.linkedin.com/in/nicolas-havard-7b964412a/" ><img src="images/linkedin.png" onmouseover="this.src='images/linkedin_color.png';" onmousein="this.src='images/linkedin_color.png';" onmouseout="this.src='images/linkedin.png';" width="50" height="50" />Linkedin</A></li>
-            <li><A HREF="http://www.viadeo.com/p/0021m0ymns9cnl7j" ><img src="images/viadeo.png" onmouseover="this.src='images/viadeo_color.png';" onmousein="this.src='images/viadeo_color.png';" onmouseout="this.src='images/viadeo.png';" width="50" height="50" />Viadeo</A></li>
-            <li><A HREF="https://github.com/Nicolas-Havard" ><img src="images/github.png" onmouseover="this.src='images/github.png';" onmousein="this.src='images/github.png';" onmouseout="this.src='images/github.png';" width="50" height="50" />Github</A></li>
+            <li><A HREF="https://www.facebook.com/nicolas.shuli.havard" ><img src="images/fb_min.png" onmouseover="this.src='images/fb_min_color.png';" onmousein="this.src='images/fb_min_color.png';" onmouseout="this.src='images/fb_min.png';" width="30" height="30" />Facebook</A></li>
+            <li><A HREF="https://twitter.com/NicolasHavard" ><img src="images/twitter.png" onmouseover="this.src='images/twitter_min_color.png';" onmousein="this.src='images/twitter_min_color.png';" onmouseout="this.src='images/twitter_min.png';" width="30" height="30" />Twitter</A></li>
+            <li><A HREF="https://www.linkedin.com/in/nicolas-havard-7b964412a/" ><img src="images/linkedin_min.png" onmouseover="this.src='images/linkedin_min_color.png';" onmousein="this.src='images/linkedin_min_color.png';" onmouseout="this.src='images/linkedin_min.png';" width="30" height="30" />Linkedin</A></li>
+            <li><A HREF="http://www.viadeo.com/p/0021m0ymns9cnl7j" ><img src="images/viadeo_min.png" onmouseover="this.src='images/viadeo_min_color.png';" onmousein="this.src='images/viadeo_min_color.png';" onmouseout="this.src='images/viadeo_min.png';" width="30" height="30" />Viadeo</A></li>
+            <li><A HREF="https://github.com/Nicolas-Havard" ><img src="images/github_min.png" onmouseover="this.src='images/github_min_color.png';" onmousein="this.src='images/github_min_color.png';" onmouseout="this.src='images/github_min.png';" width="30" height="30" />Github</A></li>
         </ul> 
     	
     </div>

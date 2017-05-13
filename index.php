@@ -28,7 +28,7 @@
         <section>											
             <aside>												
                 <H1>Havard Nicolas</H1>											
-                <img src=photo_CV.jpg alt="Ma photo !" title="Je ressemble à ça">	
+                <img src="photo_CV.jpg" alt="Ma photo !" title="Je ressemble à ça">	
 
 
                 <H2>Ma Formation</H2>
