@@ -1,8 +1,19 @@
+*
+{
+	margin: 0;
+	padding: 0:;
+}
+
+html
+{
+	height: 100% ;
+}
+
 body
 {
 	background: #303030;
 	color: white;
-
+	min-height: 100%;
 
 }
 
@@ -11,6 +22,8 @@ aside
 {
 	width: 30%;
 	background: #202020;
+	margin: 5px;
+	height: 700px;
 }
 
 
@@ -44,12 +57,13 @@ header div
 
 footer
 {
-	position: absolute;
 	bottom: 0;
 	width: 100%;
+	height: 200px ;
+	padding-top: 50px ;
 }
 
-.page, section
+#conteneur, section
 {
 	display: flex ;
 	justify-content: space-between;
@@ -61,7 +75,8 @@ footer
 nav
 {
 	order: 2;
-	width: 50%
+	width: 20%;
+	padding-left: 75px;
 }
 
 
