@@ -105,21 +105,22 @@
                 <p>
                     Je suis actuellement étudiant en première année du cycle ingénieur à <A HREF="http://www.polytech-lille.fr/" >Polytech'Lille</A>, dans la filière 
                     <A HREF="http://www.polytech-lille.fr/informatique-microelectronique-automatique-p118.html" >IMA</A> (Informatique, Microélétronique et Automatique).
-                    Durant mon temps libre, j'aime appronfondir mes connaissances sur l'informatique, l'électronique et la domotique. C'est dans ce but que j'ai créé ce site : me permettre de comprendre comment fonctionne un site,
-                    mais aussi mettre au point des applications web exploitant des systèmes comme des Raspberry par exemple.
+                    Durant mon temps libre, j'aime appronfondir mes connaissances sur l'informatique, l'électronique et la domotique. C'est dans ce but que j'ai créé ce site : 
+                    me permettre de comprendre comment fonctionne un site, mais aussi mettre au point des applications web.
+                    Ainsi, j'héberge ce site et crée son contenu moi-même.
                     <BR />
-                    Vous pouvez de plus consulter <A HREF="CV.html">mon CV</A> si vous le souhaitez.
+                    Vous pouvez de plus consulter <A HREF="monparcours.php">mon CV</A> si vous le souhaitez.
                 </p>
 
                 <p>
                     Pour me contacter, vous pouvez m'envoyer un e-mail à <A HREF="mailto:nicolashavard.02@hotmail.fr" >mon adresse mail</A> ou bien consulter les différents sites suivants :
                     <BR />
                     <ul>
-                        <li><A HREF="https://www.facebook.com/nicolas.shuli.havard" ><img src="images/fb.png" onmouseover="this.src='images/fb_color.png';" onmouseout="this.src='images/fb.png';" width="50" height="50" /> Facebook</A></li>
-                        <li><A HREF="https://twitter.com/NicolasHavard" ><img src="images/twitter.png" onmouseover="this.src='images/twitter_color.png';" onmouseout="this.src='images/twitter.png';" width="50" height="50" /> Twitter</A></li>
-                        <li><A HREF="https://www.linkedin.com/in/nicolas-havard-7b964412a/" ><img src="images/linkedin.png" onmouseover="this.src='images/linkedin_color.png';" onmouseout="this.src='images/linkedin.png';" width="50" height="50" /> Linkedin</A></li>
-                        <li><A HREF="http://www.viadeo.com/p/0021m0ymns9cnl7j" ><img src="images/viadeo.png" onmouseover="this.src='images/viadeo_color.png';" onmouseout="this.src='images/viadeo.png';" width="50" height="50" /> Viadeo</A></li>
-                        <li><A HREF="https://github.com/Nicolas-Havard" ><img src="images/github.png" onmouseover="this.src='images/github_color.png';" onmouseout="this.src='images/github.png';" width="50" height="50" /> Github</A></li>
+                        <li><A HREF="https://www.facebook.com/nicolas.shuli.havard" ><img src="images/fb.png" onmouseover="this.src='images/fb_color.png';" onmousein="this.src='images/fb_color.png';" onmouseout="this.src='images/fb.png';" width="50" height="50" /> Facebook</A></li>
+                        <li><A HREF="https://twitter.com/NicolasHavard" ><img src="images/twitter.png" onmouseover="this.src='images/twitter_color.png';" onmousein="this.src='images/twitter_color.png';" onmouseout="this.src='images/twitter.png';" width="50" height="50" /> Twitter</A></li>
+                        <li><A HREF="https://www.linkedin.com/in/nicolas-havard-7b964412a/" ><img src="images/linkedin.png" onmouseover="this.src='images/linkedin_color.png';" onmousein="this.src='images/linkedin_color.png';" onmouseout="this.src='images/linkedin.png';" width="50" height="50" /> Linkedin</A></li>
+                        <li><A HREF="http://www.viadeo.com/p/0021m0ymns9cnl7j" ><img src="images/viadeo.png" onmouseover="this.src='images/viadeo_color.png';" onmousein="this.src='images/viadeo_color.png';" onmouseout="this.src='images/viadeo.png';" width="50" height="50" /> Viadeo</A></li>
+                        <li><A HREF="https://github.com/Nicolas-Havard" ><img src="images/github.png" onmouseover="this.src='images/github_color.png';" onmousein="this.src='images/github_color.png';" onmouseout="this.src='images/github.png';" width="50" height="50" /> Github</A></li>
                     </ul>    
                 </p>
             </article>

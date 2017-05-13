@@ -1,6 +1,6 @@
-<!-- Page d'accueil du site personnel de Nicolas Havard -->
-<!--                Langue française                    -->
-<!-- Dernière mise à jour : le 26/03/2017 à 20h30       -->
+<!--    Home page of Nicolas Havard's personnal page    -->
+<!--                English language                    -->
+<!--           Latest update : 05/06/2017               -->>
 
 
 <!DOCTYPE html>
