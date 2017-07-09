@@ -1,0 +1,108 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	-moz-box-sizing: border-box; 
+	box-sizing: border-box;
+}
+
+
+html
+{
+	height: 100% ;
+}
+
+body
+{
+	background: #303030;
+	color: white;
+	min-height: 100%;
+	padding-bottom: 150px ; 
+}
+
+
+aside
+{
+	width: 30%;
+	background: #202020;
+	margin: 5px;
+	height: 700px;
+}
+
+
+a
+{
+	color: white;
+}
+
+
+
+header, footer
+{
+	background: #202020;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+header
+{
+	height: 350px ;
+}
+
+
+header h1
+{
+	margin-left: 25%;
+	justify-content: center;
+}
+
+
+header div
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+footer
+{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 150px ;
+	padding-top: 50px ;
+}
+
+#conteneur, section
+{
+	display: flex ;
+	justify-content: space-between;
+
+}
+
+
+
+nav
+{
+	order: 2;
+	width: 20%;
+	padding-left: 75px;
+}
+
+
+article
+{
+	width: 60% ;
+	text-align: justify;
+}
+
+p 
+{
+	text-indent: 2em ;
+	vertical-align: middle;
+}
+
+img
+{
+	vertical-align: middle;
+}
