@@ -5,6 +5,6 @@
         <LI><A HREF="parcours.php"><em>CV</em></A></LI>  
         <LI><A HREF="http://cloud.nhavard.ovh"><em>Cloud (en cours)</em></A></LI>
         <LI><!--A HREF=""--><em>Mail (en projet)</em><!--/A--></LI>
-        <LI><!--A HREF=""--><em>Forum (en projet)</em><!--/A--></LI>
+        
     </ul>
 </nav>

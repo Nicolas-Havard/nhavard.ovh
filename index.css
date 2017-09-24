@@ -45,6 +45,12 @@ header, footer
 	align-items: center;
 }
 
+header
+{
+	height: 350px ;
+}
+
+
 header h1
 {
 	margin-left: 25%;

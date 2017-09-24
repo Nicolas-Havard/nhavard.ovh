@@ -11,16 +11,16 @@
 <body>
 
 	<?php
-	include "struct/header.php";
+		include "struct/header.php";
 	?>
 	<article>
 		<?php
-		include "CV.html";
+			include "CV.html";
 		?>
 	</article>
-	<?php
-	include "struct/nav.php";
-	include "struct/footer.php";
+		<?php
+			include "struct/nav.php";
+			include "struct/footer.php";
 	?>
 
 
@@ -49,12 +49,17 @@
 		</ul>
 	</div>
 
+
 	
 	<div class="para">
 		<H2>Mon Experience Professionnelle</H2>
 		<ul>
 			<li>
-				<strong>Juillet-Aout 2016, 2015 et 2014 : Intérimaire en palettisation et manutention</strong> 
+				<strong>Juillet-Aout 2017 : Stagiaire informaticien industriel et automaticien</strong>
+				<BR />Actemium Reims, Reims (59)
+			</li>
+			<li>
+				<strong>Juillet-Aout 2014 à 2017 : Intérimaire en palettisation et manutention</strong> 
 				<BR />Intersnack'France, Montigny-Lengrain (02)
 			</li>
 		</ul>
@@ -112,22 +117,20 @@
 			<li>Clubs
 				<ul>
 					<li>Responsable communication du club informatique de Polytech'Lille<BR />Gestion de la page Facebook du club, participation à la Nuit de l'Info</li>
-					<li>Responsable serveur pour la micro enreprise Pulce de Polytech'Lille<BR/>Gestion webmail, assistance</li>
+					<li>Responsable serveur pour la micro entreprise Pulce de Polytech'Lille<BR/>Gestion webmail, assistance</li>
 					<li>Vice-président du club humanitaire de Polytech'Lille<BR />Mise en place d'un voyage humanitaire d'un mois au Togo afin de rénover une école</li>
 				</ul>
 			</li>
 			<li>Projets
 				<ul>
-					<li>Station météorologique à base d'Arduino et Raspberry Pi (température, pression, humidité, luminosité, vitesse du vent)</li>
-					<li>Programme de manipulation et de modification d'images en C (copie, floutage, redimensionnement, filtres)</li>
+					<li>Station météorologique à base d'Arduino et Raspberry Pi (température, pression, humidité, luminosité)</li>
+					<li>Programme de manipulation et de modification d'images en C et en Python (copie, floutage, redimensionnement, filtres)</li>
 					<li>Etude théorique des éoliennes avec étude du rendement d'une éolienne du parc de St Quentin (02)</li>
 					<li>Ce site !</li>
 				</ul>
 			</li>
 		</ul>
 	</div>
-
-	
 	<HR />
 
 	<p>

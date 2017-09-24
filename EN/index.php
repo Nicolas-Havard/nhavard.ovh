@@ -17,14 +17,14 @@
         <header>											
             <h1>nhavard.ovh</h1>	
             <div class='button'>
-                <A HREF="index.html"><em>Home</em></A><BR />
+                <A HREF="index.php"><em>Home</em></A><BR />
                 <!--A HREF=""--><em>Cloud </em><!--/A--> <BR />
                 <!--A HREF=""--><em>Mail </em><!--/A--> <BR />
                 <!--A HREF=""--><em>Forum </em><!--/A--> <BR />
             </div>
             <div class="language">
                 <A HREF="index.php><img src="../flags/UK_flag.jpg" alt="English" title="See the website in English" width="24" height="16"></A>
-                <A HREF="../index.php"><img src="../flags/FR_flag.png" alt="Français" title="Voir le sie en français" width="24" height=16"></A>
+                <A HREF="../FR/index.php"><img src="../flags/FR_flag.png" alt="Français" title="Voir le sie en français" width="24" height=16"></A>
 
             										
         </header>
@@ -33,8 +33,8 @@
         <nav>				
             <H1>Some links !</H1>
             <ul>
-                <LI><A HREF="index.html"><em>Home</em></A></LI>
-                <LI><A HREF="CV.html"><em>CV (not available in english)</em></A></LI>  
+                <LI><A HREF="index.php"><em>Home</em></A></LI>
+                <LI><A HREF="CV.html"><em>CV (not available in english at the moment)</em></A></LI>  
                 <LI><!--A HREF=""--><em>Cloud (it's comming !)</em><!--/A--></LI>
                 <LI><!--A HREF=""--><em>Mail (soon)</em><!--/A--></LI>
                 <LI><!--A HREF=""--><em>Forum (soon)</em><!--/A--></LI>
@@ -45,7 +45,7 @@
         <section>											
             <aside>												
                 <H1>Havard Nicolas</H1>											
-                <img src=../photo_CV.jpg alt="My photo !" title="Hey">	
+                <img src=../images/photo_CV.jpg alt="My photo !" title="Hey">	
 
 
                 <H2>Education</H2>
@@ -119,7 +119,7 @@
                     Hello, and welcome on my website ! My name is Nicolas 'Shuli' Havard. 
                     <BR />
                     I am a french student at the Engineering graduate school <A HREF="http://www.polytech-lille.fr/" >Polytech'Lille</A> at the University of Lille, in  
-                    <A HREF="http://www.polytech-lille.fr/informatique-microelectronique-automatique-p118.html" >IMA speciality</A> (IT, Microelectronic & Automatic).
+                    <A HREF="http://www.polytech-lille.fr/informatique-microelectronique-automatique-p118.html" >IMA speciality</A> (IT, Microelectronic and Automation).
                     On my free time, I like to learn  computer and electronics sciences. It's to improve my knowledges in web and networks I have created this website : it permits me to know how works a website, and to experiment web applications like cloud or webmail.
                     <BR />
                     You can look <A HREF="CV.html">my CV</A> if you want.
@@ -142,7 +142,7 @@
         
         
         <footer>											
-            <A HREF="index.html"><em>Home</em></A>
+            <A HREF="index.php"><em>Home</em></A>
             <a href="mailto:nicolashavard.02@hotmail.fr">Contact me by mail !</a>
             <A HREF="">Contact</A>
         </footer>
