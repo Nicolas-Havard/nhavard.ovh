@@ -1,6 +1,6 @@
 <!--    Home page of Nicolas Havard's personnal page    -->
 <!--                English language                    -->
-<!--           Latest update : 05/06/2017               -->>
+<!--           Latest update : 05/06/2017               -->
 
 
 <!DOCTYPE html>
@@ -23,8 +23,8 @@
                 <!--A HREF=""--><em>Forum </em><!--/A--> <BR />
             </div>
             <div class="language">
-                <A HREF="index.php><img src="../flags/UK_flag.jpg" alt="English" title="See the website in English" width="24" height="16"></A>
-                <A HREF="../FR/index.php"><img src="../flags/FR_flag.png" alt="Français" title="Voir le sie en français" width="24" height=16"></A>
+                <A HREF="index.php><img src="../flags/UK_flag.png" alt="English" title="See the website in English" width="24" height="16"></A>
+                <A HREF="../FR/index.php"><img src="../flags/FR_flag.png" alt="Français" title="Voir le sie en français" width="24" height="16"></A>
 
             										
         </header>

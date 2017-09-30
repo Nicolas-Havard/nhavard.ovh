@@ -9,8 +9,8 @@
     </div>
 
     <div class="language">
-        <A HREF="../../EN/index.php"><img src="../../images/flags/UK_flag.png" alt="English" title="See the website in English" height='16' width='24'></A>
-        <A HREF="../../FR/index.php"><img src="../../images/flags/FR_flag.png" alt="Français" title="Voir le site en français" height='16' width='24'></A>
+        <A HREF="../../EN/index.php"><img src="../images/flags/UK_flag.png" alt="English" title="See the website in English" height='16' width='24'></A>
+        <A HREF="../../FR/index.php"><img src="../images/flags/FR_flag.png" alt="Français" title="Voir le site en français" height='16' width='24'></A>
     </div>
             										
 </header>
